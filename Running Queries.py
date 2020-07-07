@@ -8,7 +8,7 @@ import time
 
 ## Set Up Query Headers and url
 headers = {'Content-type': 'application/json', 'Accept': 'application/json',
-        'Authorization': 'API-Key y3ztpada92a72ykqgb2spnuy7y8upapl#hjw19efv327liz2nxpwpt5wehpdafsc2dnrv8l0zb01cjp10sjlgke2z9oeai8gt'}
+        'Authorization': 'API-Key XX'}
 url = 'https://business-playlive.railsbank.com/v1/railsbank/biz-team/query-database'
 
 ## Import Datomic Query ##
